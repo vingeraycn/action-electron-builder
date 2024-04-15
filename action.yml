@@ -1,5 +1,5 @@
-name: Electron Builder Action
-author: Samuel Meuli
+name: Electron Builder Action(Using Node 20)
+author: vingeraycn
 description: GitHub Action for building and releasing Electron apps
 
 inputs:
